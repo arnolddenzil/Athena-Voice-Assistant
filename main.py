@@ -83,7 +83,7 @@ talk("Athena is initializing")
 
 # Creates an nlp_client instance to get curated data from text data
 
-nlp_client = Wit("4XBJUBXVNZKW7ADEVHSR3EPCJSF6Z52C")
+nlp_client = Wit("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
 
 
 def get_wit_response(command):
